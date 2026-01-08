@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+*
+# Python environment and cache
+__pycache__/
+venv/
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
